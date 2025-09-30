@@ -282,11 +282,3 @@ ORDER BY d.department_name;
 
 ---
 
-## ✅ Conclusion
-This project illustrates **real-world SQL subqueries and nested queries** with a **Company Database**.  
-It demonstrates how to:  
-- Compare rows against aggregated values  
-- Use correlated subqueries  
-- Identify missing relationships (`NOT EXISTS`)  
-- Perform advanced filtering with multiple subqueries  
-"# Task-6-Subqueries-and-Nested-Queries" 
